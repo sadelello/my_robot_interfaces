@@ -1,0 +1,5 @@
+#Example usage could be to turn on/off an LED
+int64 led_number
+bool state
+---
+bool success
